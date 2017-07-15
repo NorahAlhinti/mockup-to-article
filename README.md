@@ -1,2 +1,3 @@
 # mockup-to-article
-# Project in Udacite fend
+## Project in Udacite fend
+### submitted
